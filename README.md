@@ -5,9 +5,7 @@ by UnderScorePT
 Lorem ipsum
 
 # Project Structure
-
 Lorem ipsum
 
 # Network
-
 Lorem ipsum
